@@ -1,0 +1,109 @@
+{
+  "n_candidates_generated": 300,
+  "n_selected": 10,
+  "selection_rate": "10 de 300",
+  "selection_criterion": "Se generaron 300 im\u00e1genes con ruido reproducible (semilla 2026). Se descart\u00f3 el 40% de peor puntaje de realismo del discriminador entrenado (filtro de calidad) y, sobre el resto, se corri\u00f3 una b\u00fasqueda voraz de 'punto m\u00e1s lejano' (farthest-point / k-center) en distancia de p\u00edxeles: se parte del candidato de mayor puntaje y en cada paso se agrega el candidato cuya distancia al m\u00e1s cercano de los ya elegidos es m\u00e1xima, maximizando la diversidad mutua del conjunto final y evitando variaciones casi id\u00e9nticas del mismo personaje.",
+  "master_seed": 2026,
+  "rows": [
+    {
+      "rank": 1,
+      "file": "char_01_terro.png",
+      "name": "Terro",
+      "role": "Guardi\u00e1n de Ra\u00edces",
+      "element": "tierra",
+      "candidate_index": 0,
+      "master_seed": 2026,
+      "discriminator_score": 0.15985822677612305
+    },
+    {
+      "rank": 2,
+      "file": "char_02_brisa.png",
+      "name": "Brisa",
+      "role": "Centinela del Viento",
+      "element": "aire",
+      "candidate_index": 117,
+      "master_seed": 2026,
+      "discriminator_score": -0.8112620711326599
+    },
+    {
+      "rank": 3,
+      "file": "char_03_lumen.png",
+      "name": "Lumen",
+      "role": "Guardi\u00e1n del Amanecer",
+      "element": "luz",
+      "candidate_index": 10,
+      "master_seed": 2026,
+      "discriminator_score": -1.3524606227874756
+    },
+    {
+      "rank": 4,
+      "file": "char_04_musgo.png",
+      "name": "Musgo",
+      "role": "Centinela del Sotobosque",
+      "element": "tierra",
+      "candidate_index": 34,
+      "master_seed": 2026,
+      "discriminator_score": -1.3855059146881104
+    },
+    {
+      "rank": 5,
+      "file": "char_05_pluma.png",
+      "name": "Pluma",
+      "role": "Guardi\u00e1n de las Alturas",
+      "element": "aire",
+      "candidate_index": 98,
+      "master_seed": 2026,
+      "discriminator_score": -1.6649878025054932
+    },
+    {
+      "rank": 6,
+      "file": "char_06_destello.png",
+      "name": "Destello",
+      "role": "Centinela Radiante",
+      "element": "luz",
+      "candidate_index": 229,
+      "master_seed": 2026,
+      "discriminator_score": -1.4692513942718506
+    },
+    {
+      "rank": 7,
+      "file": "char_07_c\u00e9firo.png",
+      "name": "C\u00e9firo",
+      "role": "Vig\u00eda de Tormenta",
+      "element": "aire",
+      "candidate_index": 282,
+      "master_seed": 2026,
+      "discriminator_score": -1.3667049407958984
+    },
+    {
+      "rank": 8,
+      "file": "char_08_nimbo.png",
+      "name": "Nimbo",
+      "role": "Explorador de Nubes",
+      "element": "aire",
+      "candidate_index": 39,
+      "master_seed": 2026,
+      "discriminator_score": -1.322357416152954
+    },
+    {
+      "rank": 9,
+      "file": "char_09_pyra.png",
+      "name": "Pyra",
+      "role": "Centinela de Fuego",
+      "element": "fuego",
+      "candidate_index": 90,
+      "master_seed": 2026,
+      "discriminator_score": -1.6008098125457764
+    },
+    {
+      "rank": 10,
+      "file": "char_10_nerea.png",
+      "name": "Nerea",
+      "role": "Guardiana de Marea",
+      "element": "agua",
+      "candidate_index": 160,
+      "master_seed": 2026,
+      "discriminator_score": -1.3151086568832397
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+rank,file,name,role,element,candidate_index,master_seed,discriminator_score
+1,char_01_terro.png,Terro,Guardián de Raíces,tierra,0,2026,0.15985822677612305
+2,char_02_brisa.png,Brisa,Centinela del Viento,aire,117,2026,-0.8112620711326599
+3,char_03_lumen.png,Lumen,Guardián del Amanecer,luz,10,2026,-1.3524606227874756
+4,char_04_musgo.png,Musgo,Centinela del Sotobosque,tierra,34,2026,-1.3855059146881104
+5,char_05_pluma.png,Pluma,Guardián de las Alturas,aire,98,2026,-1.6649878025054932
+6,char_06_destello.png,Destello,Centinela Radiante,luz,229,2026,-1.4692513942718506
+7,char_07_céfiro.png,Céfiro,Vigía de Tormenta,aire,282,2026,-1.3667049407958984
+8,char_08_nimbo.png,Nimbo,Explorador de Nubes,aire,39,2026,-1.322357416152954
+9,char_09_pyra.png,Pyra,Centinela de Fuego,fuego,90,2026,-1.6008098125457764
+10,char_10_nerea.png,Nerea,Guardiana de Marea,agua,160,2026,-1.3151086568832397

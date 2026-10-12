@@ -1,0 +1,76 @@
+{
+  "threshold_pixel_mse": 60.0,
+  "flagged_as_too_similar": [],
+  "results": [
+    {
+      "character_index": 0,
+      "nearest_train_index_pixel": 3322,
+      "pixel_mse": 615.6239624023438,
+      "nearest_train_index_feature": 96,
+      "feature_mse": 0.0015548178926110268
+    },
+    {
+      "character_index": 1,
+      "nearest_train_index_pixel": 2078,
+      "pixel_mse": 3268.404052734375,
+      "nearest_train_index_feature": 1109,
+      "feature_mse": 0.004387207794934511
+    },
+    {
+      "character_index": 2,
+      "nearest_train_index_pixel": 2938,
+      "pixel_mse": 3182.843017578125,
+      "nearest_train_index_feature": 2582,
+      "feature_mse": 0.011064632795751095
+    },
+    {
+      "character_index": 3,
+      "nearest_train_index_pixel": 586,
+      "pixel_mse": 4227.92822265625,
+      "nearest_train_index_feature": 395,
+      "feature_mse": 0.015520758926868439
+    },
+    {
+      "character_index": 4,
+      "nearest_train_index_pixel": 1553,
+      "pixel_mse": 1565.8443603515625,
+      "nearest_train_index_feature": 442,
+      "feature_mse": 0.005958185996860266
+    },
+    {
+      "character_index": 5,
+      "nearest_train_index_pixel": 1383,
+      "pixel_mse": 2773.1923828125,
+      "nearest_train_index_feature": 2573,
+      "feature_mse": 0.007565165404230356
+    },
+    {
+      "character_index": 6,
+      "nearest_train_index_pixel": 2405,
+      "pixel_mse": 3195.701416015625,
+      "nearest_train_index_feature": 1103,
+      "feature_mse": 0.0045173210091888905
+    },
+    {
+      "character_index": 7,
+      "nearest_train_index_pixel": 1049,
+      "pixel_mse": 1843.08203125,
+      "nearest_train_index_feature": 1313,
+      "feature_mse": 0.00636455649510026
+    },
+    {
+      "character_index": 8,
+      "nearest_train_index_pixel": 2717,
+      "pixel_mse": 1781.0950927734375,
+      "nearest_train_index_feature": 516,
+      "feature_mse": 0.006951289251446724
+    },
+    {
+      "character_index": 9,
+      "nearest_train_index_pixel": 2772,
+      "pixel_mse": 1497.7628173828125,
+      "nearest_train_index_feature": 1122,
+      "feature_mse": 0.003897197311744094
+    }
+  ]
+}

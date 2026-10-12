@@ -1,0 +1,20 @@
+{
+  "name": "loss_wgangp",
+  "loss_type": "wgan_gp",
+  "normalization": "none",
+  "epochs": 15,
+  "batch_size": 64,
+  "latent_dim": 100,
+  "feature_maps": 32,
+  "lr_g": 0.0001,
+  "lr_d": 0.0001,
+  "betas": [
+    0.0,
+    0.9
+  ],
+  "n_critic": 3,
+  "lambda_gp": 10.0,
+  "seed": 2026,
+  "fixed_noise_n": 16,
+  "snapshot_every": 2
+}

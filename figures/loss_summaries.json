@@ -1,0 +1,23 @@
+{
+  "baseline": {
+    "d_loss_final_mean": 0.07566859697531675,
+    "d_loss_final_std": 0.2640480600430278,
+    "g_loss_final_mean": 6.870170606079922,
+    "g_loss_final_std": 3.344882652815738,
+    "n_iterations": 1395
+  },
+  "stab_spectral_norm": {
+    "d_loss_final_mean": 0.7300472454999083,
+    "d_loss_final_std": 0.14055615913666272,
+    "g_loss_final_mean": 1.7305835592276735,
+    "g_loss_final_std": 0.5324469141628013,
+    "n_iterations": 1395
+  },
+  "loss_wgangp": {
+    "d_loss_final_mean": -13.615737750966062,
+    "d_loss_final_std": 0.7813176635202878,
+    "g_loss_final_mean": 65.06385228967154,
+    "g_loss_final_std": 15.696366227062185,
+    "n_iterations": 930
+  }
+}
